@@ -1,0 +1,26 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "README.md",
+        "pages/1.md",
+        "pages/10.md",
+        "pages/2.md",
+        "pages/3.md",
+        "pages/4.md",
+        "pages/5.md",
+        "pages/6.md",
+        "pages/7.md",
+        "pages/8.md",
+        "pages/9.md",
+        "pages/intro.md",
+        "pages/toc.md",
+        "pages/why.md",
+        "slides.md",
+        ".vscode/changelists.json"
+      ]
+    }
+  ],
+  "active": "Default"
+}

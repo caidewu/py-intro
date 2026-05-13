@@ -4,19 +4,19 @@ layout: two-cols
 layoutClass: gap-16
 ---
 
-# Table of contents
+# 目录
 
 <br>
 <br>
 
-## Prerequisites
+## 前置要求
 
 <br>
 
 ```
-No previous knowledge of Python is needed
-as the course will start with a
-quick introduction to Python.
+无需任何 Python 基础知识
+本课程将从 Python 的
+快速入门开始讲起。
 
 ```
 

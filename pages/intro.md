@@ -4,22 +4,22 @@ layoutClass: gap-16
 transition: fade-out
 ---
 
-# Intro
+# 简介
 
-Computer programs consist of commands
+计算机程序由命令组成
 
-and each command instructing the computer to take some action.
+每条命令指示计算机执行某个操作。
 
-A computer executes these commands one by one.
+计算机逐条执行这些命令。
 
-commands can be used to:
+命令可以用于：
 
 <v-clicks>
 
-- post messages or ask for info from the user.
-- perform calculations on numbers.
-- compare things in the computer's memory.
-- cause changes in how the program functions.
+- 向用户发送消息或请求信息。
+- 对数字进行计算。
+- 比较计算机内存中的内容。
+- 改变程序的运行方式。
 
 </v-clicks>
 

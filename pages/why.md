@@ -2,15 +2,15 @@
 transition: slide-left
 ---
 
-# Why Python?
+# 为什么选择 Python？
 
-- 📝 **popular, easy** to learn programming language.
-- 🛠 suitable for fast **prototyping**
-- 🧑‍💻 commonly used in the field of **data analysis**, **machine learning** and **AI**.
+- 📝 **流行、易学** 的编程语言。
+- 🛠 适合快速 **原型开发**
+- 🧑‍💻 广泛应用于 **数据分析**、**机器学习** 和 **人工智能** 领域。
 
-It has very efficient libraries available to process large amounts of data including libraries such of `NumPy`, `Pandas`, `Matplotlib` and `SciPy` that we will familiarize ourselves with during this course.
+Python 拥有非常高效的数据处理库，包括我们将在本课程中熟悉的 `NumPy`、`Pandas`、`Matplotlib` 和 `SciPy` 等库。
 
-[python docs!](https://docs.python.org/3/)
+[Python 官方文档！](https://docs.python.org/3/)
 
 <div class="w-60 relative">
   <div class="relative w-40 h-40">
@@ -53,7 +53,7 @@ h1 {
 }
 </style>
 
-<!-- vue script setup scripts can be directly used in markdown, and will only affects current page -->
+<!-- vue script setup 脚本可以直接在 markdown 中使用，且仅影响当前页面 -->
 <script setup lang="ts">
 const final = {
   x: 0,
@@ -68,4 +68,3 @@ const final = {
   }
 }
 </script>
-

@@ -1,10 +1,10 @@
-# Python From Zero To Hero: Intro
+# Python 从入门到放弃：入门
 
-To start the slide show locally:
+在本地启动幻灯片演示：
 
 - `npm install`
 - `npm run dev`
-- visit <http://localhost:3030>
+- 访问 <http://localhost:3030>
 
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+在 [文档](https://sli.dev/) 中了解更多关于 Slidev 的信息。

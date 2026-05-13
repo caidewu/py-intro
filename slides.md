@@ -1,38 +1,38 @@
 ---
-# config for the whole slides and the first one
+# 整个演示文稿及第一张幻灯片的配置
 
 addons:
   - slidev-addon-python-runner
   - slidev-addon-rabbit
 rabbit:
-  slideNum: true   # Show current/total slide numbers next to a rabbit icon
+  slideNum: true   # 在兔子图标旁显示当前/总幻灯片数
 
 theme: bricks
 
-# some information about your slides (markdown enabled)
-title: Python Series
+# 幻灯片的一些信息（支持 markdown）
+title: Python 系列教程
 author: Kareim Tarek
 class: text-center
 # https://sli.dev/features/drawing
 drawings:
   persist: false
 
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
+# 幻灯片过渡动画: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
 
-# enable MDC Syntax: https://sli.dev/features/mdc
+# 启用 MDC 语法: https://sli.dev/features/mdc
 mdc: true
 
-# show line numbers in code blocks
+# 在代码块中显示行号
 lineNumbers: True
 
-# controls whether texts in slides are selectable
+# 控制幻灯片中的文本是否可选中
 selectable: true
 ---
 
-# Python From Zero To Hero
+# Python 从入门到放弃
 
-Episode 1
+第一集
 
 <div class="abs-br m-6 text-xl">
   <a href="https://www.youtube.com/@KareemKreates" target="_blank" class="slidev-icon-btn">
@@ -47,7 +47,7 @@ Episode 1
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+每张幻灯片的最后一个注释块将被视为幻灯片备注。在演示者模式下，它将可见且可编辑。
 -->
 
 ---
@@ -107,8 +107,8 @@ layout: center
 class: text-center
 ---
 
-# Learn More
+# 了解更多
 
-[Materials](https://sli.dev) · [GitHub](https://github.com/KareimGazer) · [YouTube](https://www.youtube.com/@KareemKreates)
+[资料](https://sli.dev) · [GitHub](https://github.com/KareimGazer) · [YouTube](https://www.youtube.com/@KareemKreates)
 
 <PoweredBySlidev mt-10 />
